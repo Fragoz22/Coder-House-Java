@@ -1,0 +1,9 @@
+[
+  { "id": 1, "title": "Americano", "price": 100, "image": "imagenes/americano.jpg" },
+  { "id": 2, "title": "Flat White", "price": 180, "image": "imagenes/flat.jpg" },
+  { "id": 3, "title": "Latte", "price": 180, "image": "imagenes/latte.jpg" },
+  { "id": 4, "title": "Capuchino", "price": 200, "image": "imagenes/capuchino.jpg" },
+  { "id": 5, "title": "Macchiato", "price": 150, "image": "imagenes/macchiato.jpg" },
+  { "id": 6, "title": "Iced Coffee", "price": 180, "image": "imagenes/iced.jpg" }
+]
+
